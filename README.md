@@ -15,3 +15,6 @@ Practicing a lot
 helllo hello hello
 [google it](https://www.google.com)
 >>>>>>> 8e740f2fa606c777671a4c8a306ac70361ecf747
+
+
+GIT pull is to update and you must first update before you can add
